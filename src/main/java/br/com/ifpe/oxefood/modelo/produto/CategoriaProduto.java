@@ -1,5 +1,5 @@
-package br.com.ifpe.oxefood.modelo.produto;
+// package br.com.ifpe.oxefood.modelo.produto;
 
-public class CategoriaProduto {
+// public class CategoriaProduto {
     
-}
+// }

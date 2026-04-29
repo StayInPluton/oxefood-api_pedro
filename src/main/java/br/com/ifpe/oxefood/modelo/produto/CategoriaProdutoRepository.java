@@ -1,7 +1,7 @@
-package br.com.ifpe.oxefood.modelo.produto;
+// package br.com.ifpe.oxefood.modelo.produto;
 
-import org.springframework.data.jpa.repository.JpaRepository;
+// import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface CategoriaProdutoRepository extends JpaRepository<CategoriaProduto, Long> {
+// public interface CategoriaProdutoRepository extends JpaRepository<CategoriaProduto, Long> {
     
-}
+// }

@@ -1,5 +1,5 @@
-package br.com.ifpe.oxefood.api.produto;
+// package br.com.ifpe.oxefood.api.produto;
 
-public class CategoriaPrdotoController {
+// public class CategoriaProdutoController {
     
-}
+// }
